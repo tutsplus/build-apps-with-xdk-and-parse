@@ -1,0 +1,9 @@
+{
+  "parse": {
+    "name": "Parse API",
+    "description": "Backend",
+    "dashboardUrl": "https://parse.com",
+    "auth": "key",
+    "signature": "apiSecret"
+  }
+}

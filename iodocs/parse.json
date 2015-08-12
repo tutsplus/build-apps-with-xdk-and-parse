@@ -1,0 +1,25 @@
+{
+"endpoints": [
+  {
+    "name": "Parse methods",
+    "dashboardUrl": "http://https://parse.com/docs/rest",
+    "methods": [
+        {
+        "MethodName": "articles",
+        "Synopsis": "Grabs articles from parse",
+        "parameters": [
+          {
+            "Name": "ID",
+            "Required": "N",
+            "Default": "",
+            "Type": "string",
+            "Description": "Article ID"            
+          }
+          
+        ]
+      }
+      
+    ]
+  }
+]
+}
